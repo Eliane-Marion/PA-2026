@@ -1,0 +1,23 @@
+Exercícios:
+1. Faça um programa que preencha um vetor de 10 posições do tipo inteiro. Exemplo:
+54 23 12 54 34 22 12 43 56 77
+
+2. Faça uma rotina que peça ao usuário um valor e confira se este valor está contido no vetor.
+ENTRADA: 10	SAÍDA: Valor não encontrado no vetor
+ENTRADA: 34	SAÍDA: Valor encontrado no vetor
+
+3. Faça uma rotina que conte quantos elementos pares tem no vetor.
+ENTRADA: - 	SAÍDA: Há 7 elementos pares no vetor
+
+
+4. Peça um valor ao usuário e preencha todo o vetor com este mesmo valor.
+ENTRADA: 22 	SAÍDA: 22 22 22 22 22 22 22 22 22 22 
+
+5. Exibir o conteudo do vetor
+
+Crie um menu onde o usuário selecione uma da 5 opcoes para ser executada, retornando
+ao menu depois de executar.
+
++-
+
+

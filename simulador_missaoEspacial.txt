@@ -1,0 +1,19 @@
+Exercício: Simulador de Missão Espacial
+Você foi contratado para programar o computador de bordo de uma nave exploradora. Antes de decolar, o sistema precisa calcular alguns dados da missão com base nas informações fornecidas pelo piloto.
+O programa deve receber:
+
+Quantidade de combustível (em litros) → C
+Consumo da nave (litros por km) → K
+Tempo de viagem (em horas) → T
+Velocidade média da nave (km/h) → V
+
+Exibir
+1. Distância total da viagem
+2. Combustível necessário para a viagem
+3. Combustível restante após a viagem
+4. Autonomia máxima da nave com o combustível atual
+5.Tempo máximo que a nave conseguiria voar
+
+
+
+

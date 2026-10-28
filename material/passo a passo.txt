@@ -1,0 +1,26 @@
+- Abrir o Dev C++
+
+[cada programa é um arquivo]
+
+- Novo arquivo: File/new/source file
+
+- Digite o programa:
+# include <stdio.h>
+int main()
+{
+	Corpo do programa	
+}
+
+- Salvar o arquivo: File/save
+** Salvar em alguma pasta do drive D:
+** No final da aula, salvar esta pasta no pendrive
+
+- Compilar: Execute/Compile
+** enquanto houver erro de compilacao, nao vou para o proximo passo
+
+-Executar: Exexute/run
+
+
+---------
+Conselhos de execução em C:
+- Antes de um scanf coloque um printf com uma mensagem dizendo o que voce quer que digite

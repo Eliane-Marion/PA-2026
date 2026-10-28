@@ -1,0 +1,10 @@
+Exercicios (Decisão composta)
+FAÇA O FLUXOGRAMA E O CÓDIGO EM C (NESTA ORDEM)
+1. Dada uma temperatura corporal, Exibir:
+- "Você está com febre" ou
+- "Você não está com febre"
+Está com febre aquele que estiver com ao menos 37 graus de febre.
+
+2. Uma loja dará um voucher de 100 reais na próxima compra caso ela seja acima de 500 reais, caso contrário um voucher de 50 reais. Dado o valor da compra, exiba o voucher que o usuário ganhou.
+
+3. Dado o valor de uma compra, efetuar o desconto de 8% para aquele que teve compra superior a 1000 reais, caso contrário, desconto de 4%. Faça um algoritmo que pegue o valor da compra e calcule o desconto devido, informando ao final, o valor da compra original e o valor com o desconto.

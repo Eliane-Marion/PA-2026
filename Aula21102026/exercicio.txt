@@ -1,0 +1,9 @@
+Considere um vetor do tipo inteiro com 10 posições 
+preenchido.
+
+Faça um programa que peça um valor ao usuário e 
+verifique e informe se o valor está contido no 
+vetor ou não.
+
+Quem terminou, refaça este programa usando subalgoritmos
+(função e procedimento)

@@ -1,0 +1,27 @@
+Exercício:
+1. fazer uma função chamada eh_triangulo que receba 3 valores por parâmetro e verifique se esses valores formam um triângulo:
+Para formar um triângulo cada lado deve ser menor do que a soma dos outros dois. Se formar, retornar 1, senão retornar 0.
+
+TESTES:
+Formam triângulo (retorna 1):
+x = eh_triangulo(5, 8, 9);
+x = eh_triangulo(5, 9, 8);
+x = eh_triangulo(8, 5, 9);
+x = eh_triangulo(8, 9, 5);
+x = eh_triangulo(9, 5, 8);
+x = eh_triangulo(9, 8, 5);
+x = eh_triangulo(9, 9, 9);
+
+NÃO formam um triângulo (retorna 0):
+x = eh_triangulo(5, 1, 9);
+x = eh_triangulo(5, 9, 1);
+x = eh_triangulo(1, 5, 9);
+x = eh_triangulo(1, 9, 5);
+x = eh_triangulo(9, 5, 1);
+x = eh_triangulo(9, 1, 5);
+
+2. Pesquise o que é um triângulo equilátero, isosceles e escaleno.
+Crie uma função para cada um, retornando 1 ou 0.
+Em um programa principal, peça 3 valores por parâmetro e verifique se é triângulo. 
+Se for, mostre qual dos três é, se não for um triangulo, informar "Os valores não formam um triangulo".
+
